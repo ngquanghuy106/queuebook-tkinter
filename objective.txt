@@ -1,0 +1,21 @@
+### Compressed requirement from GPT made by HSC:
+
+# Requirement
+- Add customer (ADD) = DONE
+- Show queue = DONE
+- Next customer (NEXT) = DONE
+- Queue count = DONE
+- Must not crash on invaild input = DONE
+- Queue should be visually readable from afar = DONE
+- User-friendly = DONE
+
+# Technical
+- Classes = DONE
+- TKinter GUI = DONE
+- ICCFSM framework = Only ICCM bc code only need those
+- No global = DONE
+
+# Constrants
+- No database = DONE
+- No advance styling = DONE
+- Queue must behave like FIFO = DONE
